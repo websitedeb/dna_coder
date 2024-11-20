@@ -1,0 +1,22 @@
+{
+  "name": "dna-coder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dna": "^0.1.6",
+    "dna-to-rna": "^1.0.3",
+    "path": "^0.12.7",
+    "ts-dna": "^0.7.1",
+    "yargs": "^17.7.2"
+  },
+  "bin": {
+    "dna": "./bin/index.js"
+  }
+}
