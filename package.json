@@ -10,13 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dna": "^0.1.6",
-    "dna-to-rna": "^1.0.3",
+    "cli-color": "^2.0.4",
     "path": "^0.12.7",
     "ts-dna": "^0.7.1",
     "yargs": "^17.7.2"
   },
   "bin": {
-    "dna": "./bin/index.js"
+    "ribosome": "./bin/index.js"
   }
 }
